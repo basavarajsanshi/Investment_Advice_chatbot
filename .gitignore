@@ -8,5 +8,7 @@ venv/
 *.txt
 *.out
 *.err
+json_data.json
+alpha_vantage_api_key.txt
 
 
