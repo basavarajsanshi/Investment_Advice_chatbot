@@ -1,0 +1,12 @@
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.txt
+*.out
+*.err
+
+
